@@ -1,0 +1,74 @@
+body{
+ background-color: #ffece4 !important;
+}
+
+.previous-page, .next-page{
+    display: inline-block;
+    height: 38px;
+    padding: 0 30px;
+    color: #555;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 600;
+    line-height: 38px;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    white-space: nowrap;
+    background-color: transparent;
+    border-radius: 4px;
+    border: 1px solid #bbb;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.table_btn{
+    border-radius: 4px;
+    font-size: 13px;
+    width: 136px;
+    height: 37px;
+    box-shadow: none;
+}
+
+#table_btn_row{
+    margin-left: 77.3%;
+    margin-top: -3%;
+}
+
+#add-row{
+    margin-right: 0.24px;
+    border: 1px solid #bbb;
+    width: 109px;
+    font-size: 12px;
+    background-color: #ffece4;
+}
+/*.Select-control{*/
+/*    background-color: #37769a !important;*/
+/*}*/
+
+/*.Select-placeholder, .Select-input{*/
+/*    color: white;*/
+/*}*/
+
+.cover {
+    object-fit: cover;
+    margin-left: -28px;
+}
+
+.drop{
+    width: 150px;
+    border-radius: 4px!important;
+    font-size: 13px;
+    margin-left: 25px;
+}
+
+.Select-control{
+    background-color: #f5f2f2 !important;
+    /*color: white !important;*/
+    /*border : 1px solid #d0bbbb !important;*/
+    border : 1px solid #5a5656 !important;
+}
+
+.predict_tables{
+    margin-top:9% !important;
+}
